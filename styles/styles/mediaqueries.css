@@ -1,0 +1,39 @@
+/* Responsive design for smaller screens */
+@media (max-width: 1000px) {
+    .hide {
+        display: none;
+    }
+}
+
+/* For small screens (e.g., mobile devices) */
+@media (max-width: 600px) {
+    .main {
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+    .sidebar {
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+
+    .main-content {
+        padding: 1rem;
+    }
+
+    .music-player {
+        flex-direction: column;
+        height: auto;
+        padding: 1rem;
+    }
+
+    .cards-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        width: 100%;
+        margin: 1rem 0;
+    }
+}

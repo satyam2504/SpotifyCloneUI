@@ -1,6 +1,6 @@
 # Spotify Clone
 
-This is a simple web-based Spotify clone built using HTML, CSS, and JavaScript. The clone replicates the user interface of Spotify, showcasing music, playlists, and a music player.
+This is a simple web-based Spotify clone built using HTML, CSS. The clone replicates the user interface of Spotify, showcasing music, playlists, and a music player.
 
 ## Features
 
